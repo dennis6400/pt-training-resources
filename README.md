@@ -25,12 +25,6 @@
 - [OffSec Portal](https://portal.offsec.com/)
 - [PWK - General Course Information](https://www.offsec.com/wp-content/uploads/2023/03/PEN-200-Module-General-Course-Info.pdf)
 
-**Forum:**
-
-- [Offensive Security Forums](https://forums.offensive-security.com/)
-- [Offensive Security Forums - Public Network](https://forums.offensive-security.com/forumdisplay.php?271-Public-Network)
-- [Offensive Security Forums - Public Network (old)](https://forums.offensive-security.com/forumdisplay.php?138-Public-Network)
-
 **Videos:**
 
 - [Vimeo](https://vimeo.com/offsec)
@@ -50,6 +44,7 @@
 
 ### Misc 
 
+- [INE](https://my.ine.com/)
 - [TCM Security Academy](https://academy.tcm-sec.com/)
 - [PentesterLab](https://pentesterlab.com/)
 - [Deloitte Hackazon](https://hackazon.org/)
@@ -108,10 +103,6 @@ https://www.megacorpone.com
 
 - Kostenpflichtige Zertifizierung
 - Re-Zertifizierung nach 3 Jahren
-
-## Sprachen
-
-- [Babbel.com](https://my.babbel.com/dashboard)
 
 ## Wichtige Udemy-Kurse (für Hacking)
 
